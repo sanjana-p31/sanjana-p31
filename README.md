@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjana</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjana-p31&label=Profile%20views&color=0e75b6&style=flat" alt="sanjana-p31" /> </p>
 
 - 🔭 I’m currently working on **[Your Project Name](project link)**  
 - 🌱 I’m currently learning **[Tech Stack/Topics]**  
