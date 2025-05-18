@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on **[Type of projects]**  
 - 🤝 I’m looking for help with **[Learning goal or project]**  
 - 💬 Ask me about **Python, AI, Web Dev, etc.**  
-- 📫 How to reach me: **youremail@example.com**  
+- 📫 How to reach me: **sanjanaprabhugari@gmail.com**  
 - ⚡ Fun fact: **Something quirky or interesting**
 
 ---
